@@ -1,0 +1,48 @@
+.clear {
+  clear: both;
+}
+
+#day-menu {
+	background: url(/img/brown-paper.jpg);
+}
+
+#menu {
+	font-family: "Courier";
+	width: 640px;
+	background: url(/img/brown-paper.jpg);
+	
+}
+
+#menu img {
+	height: 87px;
+	margin-left: 160px;
+}
+
+#menu h3 {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.menu-header {
+	margin-left: 5px;
+	margin-right: 5px;
+	float: right;
+	font-size: 0.8em;
+}
+
+.menu-body {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.menu-item {
+	margin-bottom: 1em;
+}
+
+.menu-title {
+	font-weight: bold;
+}
+
+.menu-footer {
+	height: 10px;
+}

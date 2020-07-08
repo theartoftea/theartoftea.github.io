@@ -531,6 +531,20 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 	font-style: normal;
 }
 
+/* ----- WE ARE BACK ------- */
+#we-are-back h1 {
+    border-bottom: 1px dashed #E5E5E5;
+    font-size: 0.75em;
+    margin: 0 10px 10px 0;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+#we-are-back p {
+	font-size: 1em;
+	font-style: normal;
+}
+
 /* ----- MENUS ------- */
 #menus {
     margin-bottom: 20px;

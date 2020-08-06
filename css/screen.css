@@ -517,6 +517,19 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 	font-style: italic;
 }
 
+.content h1 {
+    border-bottom: 1px dashed #E5E5E5;
+    font-size: 0.75em;
+    margin: 0 10px 10px 0;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.content p {
+	font-size: 1em;
+	font-style: normal;
+}
+
 /* ----- ABOUT US ------- */
 #about-us h1 {
     border-bottom: 1px dashed #E5E5E5;

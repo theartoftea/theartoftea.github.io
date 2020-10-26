@@ -548,7 +548,7 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 #we-are-back h1 {
     border-bottom: 1px dashed #E5E5E5;
     font-size: 0.75em;
-    margin: 0 10px 10px 0;
+    margin: 30px 10px 10px 0;
     padding-bottom: 5px;
     text-transform: uppercase;
 }
@@ -560,6 +560,7 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 
 /* ----- MENUS ------- */
 #menus {
+    margin-top: 30px;
     margin-bottom: 20px;
     font-size: 1em;
 	font-style: normal;
@@ -604,8 +605,8 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 /* ----- CAFE INFO ------ */
 
 #cafe-info {
-	float: left;
-	width: 40%;
+    float: left;
+    width: 35%;
 }
 
 #cafe-info h1 {
@@ -630,13 +631,15 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 /* ----- FIND US ------ */
 
 #find-us {
-	margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 /* ----- CONTACT US ------ */
 
 #contact-us {
-	margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
 /* ----- MAP ------ */
@@ -648,6 +651,8 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 /* ----- HIRE US ------- */
 #hire-us {
 	clear: both;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 #hire-us h1 {
@@ -666,11 +671,10 @@ li#t-about a { background-image: url(../img/nav-about.png); }
 /* ----- RESERVE A TABLE ----- */
 
 #reserve-a-table {
-	float: right;
-	width: 60%;
-	height: 342px;
-	margin-bottom: 10px;
-	overflow: hidden;
+    float: right;
+    width: 65%;
+    margin-bottom: 10px;
+    overflow: hidden;
 }
 
 #reserve-a-table h1 {
